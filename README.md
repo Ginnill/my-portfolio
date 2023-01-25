@@ -1,8 +1,4 @@
 # my-portfolio
 
-# Tools
-
-# React
-# Vite
-# Typescript
-# Styled Components
+Tools
+React, Vite, Typescript, Styled Components
